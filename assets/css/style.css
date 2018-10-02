@@ -1406,6 +1406,12 @@ General Styles - Owlcarousel
   background: transparent;
 }
 
+.col-xs-12.col-md-6.side-image.video {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* About us Page Header */
 .about-page-header:before {
   background: rgba(2, 2, 2, 0.2);
